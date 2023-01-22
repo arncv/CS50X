@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Best case scenario takes less time than sort3
+
+sort2 uses: Merge Sort
+
+How do you know?: Takes the least amount of time to sort large numbers(50000 numbers) 
+
+sort3 uses: Selection Sort
+
+How do you know?: Best case scenario takes the most time, which indicates the algorithm had to manually check each number, hence slection sort
